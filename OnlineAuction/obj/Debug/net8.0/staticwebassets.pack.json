@@ -1,0 +1,1229 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineAuction.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineAuction.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\077c0013-1a9b-4268-9d67-bfaae19d01af_200cc.pdf",
+      "PackagePath": "staticwebassets\\Documents\\077c0013-1a9b-4268-9d67-bfaae19d01af_200cc.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\149dbf59-78de-4c33-b02a-a5d4a4e79d58_wifi-password key.txt",
+      "PackagePath": "staticwebassets\\Documents\\149dbf59-78de-4c33-b02a-a5d4a4e79d58_wifi-password key.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\1704d54c-68f1-4cb8-9e85-9b153492db1a_tundra.pdf",
+      "PackagePath": "staticwebassets\\Documents\\1704d54c-68f1-4cb8-9e85-9b153492db1a_tundra.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\20ff9069-1edd-4f8e-bd64-59ebbb899e2c_studytable.pdf",
+      "PackagePath": "staticwebassets\\Documents\\20ff9069-1edd-4f8e-bd64-59ebbb899e2c_studytable.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\239fba81-16a1-4bc5-9d89-8a2fc5faf5e8_chr.pdf",
+      "PackagePath": "staticwebassets\\Documents\\239fba81-16a1-4bc5-9d89-8a2fc5faf5e8_chr.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\25191040-4051-4b61-a958-7ba92c306df3_diningtable.pdf",
+      "PackagePath": "staticwebassets\\Documents\\25191040-4051-4b61-a958-7ba92c306df3_diningtable.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\271fb4b7-ed2b-47bb-8eaf-5e00d0ae87e4_diningtable.pdf",
+      "PackagePath": "staticwebassets\\Documents\\271fb4b7-ed2b-47bb-8eaf-5e00d0ae87e4_diningtable.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\31b064c8-e28b-4028-851e-047b8f115de0_beds-furniture.pdf",
+      "PackagePath": "staticwebassets\\Documents\\31b064c8-e28b-4028-851e-047b8f115de0_beds-furniture.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\31beec42-7951-4bc6-b597-e0076d87968f_Documentation.pdf",
+      "PackagePath": "staticwebassets\\Documents\\31beec42-7951-4bc6-b597-e0076d87968f_Documentation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\42ed66d3-4c5c-499b-b6e8-022e5739cb33_beds-furniture.pdf",
+      "PackagePath": "staticwebassets\\Documents\\42ed66d3-4c5c-499b-b6e8-022e5739cb33_beds-furniture.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\43184104-af39-4dfd-bb64-c4818f6e2cbe_sportage.pdf",
+      "PackagePath": "staticwebassets\\Documents\\43184104-af39-4dfd-bb64-c4818f6e2cbe_sportage.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\4a3ac8b4-a67d-422e-92b7-af39c5ef9731_OnlineAuctionPasswords.txt",
+      "PackagePath": "staticwebassets\\Documents\\4a3ac8b4-a67d-422e-92b7-af39c5ef9731_OnlineAuctionPasswords.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\4b800c51-62af-4e45-b8db-b6db1ef5691b_Civic1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\4b800c51-62af-4e45-b8db-b6db1ef5691b_Civic1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\4f436ca8-5fbd-4ea1-9035-17c89a04582f_chr1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\4f436ca8-5fbd-4ea1-9035-17c89a04582f_chr1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\51d389bb-e4b9-48c0-be5d-8f80a3a29d54_Documentation.pdf",
+      "PackagePath": "staticwebassets\\Documents\\51d389bb-e4b9-48c0-be5d-8f80a3a29d54_Documentation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\5ca611a2-9dfa-45d6-b3b9-7fcce6a4a211_codemcqtest.txt",
+      "PackagePath": "staticwebassets\\Documents\\5ca611a2-9dfa-45d6-b3b9-7fcce6a4a211_codemcqtest.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\5cb585b3-2d78-47e4-bb6d-99db7a075d30_WasherDryer.pdf",
+      "PackagePath": "staticwebassets\\Documents\\5cb585b3-2d78-47e4-bb6d-99db7a075d30_WasherDryer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\5d6032e0-931e-46be-a517-6253839bb697_camry.pdf",
+      "PackagePath": "staticwebassets\\Documents\\5d6032e0-931e-46be-a517-6253839bb697_camry.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\61571354-e693-47bf-90b4-bf3ae3906e82_sts certificate.pdf",
+      "PackagePath": "staticwebassets\\Documents\\61571354-e693-47bf-90b4-bf3ae3906e82_sts certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\756c9728-e7d9-41cf-a42b-bc2dabd18ddd_shelf.pdf",
+      "PackagePath": "staticwebassets\\Documents\\756c9728-e7d9-41cf-a42b-bc2dabd18ddd_shelf.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\7628f719-131d-4907-81d2-3329faa95cfb_beds-furniture.pdf",
+      "PackagePath": "staticwebassets\\Documents\\7628f719-131d-4907-81d2-3329faa95cfb_beds-furniture.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\82f30b6f-e981-4391-8483-fc97cc255e63_sts certificate.pdf",
+      "PackagePath": "staticwebassets\\Documents\\82f30b6f-e981-4391-8483-fc97cc255e63_sts certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\8348fb18-cb41-48bc-b8f6-1edd8194552a_Dispenser.pdf",
+      "PackagePath": "staticwebassets\\Documents\\8348fb18-cb41-48bc-b8f6-1edd8194552a_Dispenser.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\852d1b86-725b-4557-b7dc-534e53db89d9_Documentation.pdf",
+      "PackagePath": "staticwebassets\\Documents\\852d1b86-725b-4557-b7dc-534e53db89d9_Documentation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\85654b2c-a8c1-4c8b-a417-92aea79f5388_200cc1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\85654b2c-a8c1-4c8b-a417-92aea79f5388_200cc1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\868e1881-3544-454d-9be5-b17c14169f55_Civic1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\868e1881-3544-454d-9be5-b17c14169f55_Civic1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\86fdf681-cff8-4925-86f3-5775d7a3868a_Civic1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\86fdf681-cff8-4925-86f3-5775d7a3868a_Civic1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\880e826f-6fa4-4370-8e05-4323abc879c3_beds-furniture.pdf",
+      "PackagePath": "staticwebassets\\Documents\\880e826f-6fa4-4370-8e05-4323abc879c3_beds-furniture.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\90ffe2f5-1aa9-475c-a16b-61607aaa8983_sts certificate.pdf",
+      "PackagePath": "staticwebassets\\Documents\\90ffe2f5-1aa9-475c-a16b-61607aaa8983_sts certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\97836bec-22f9-46cf-85e4-5de52e80167e_oven.pdf",
+      "PackagePath": "staticwebassets\\Documents\\97836bec-22f9-46cf-85e4-5de52e80167e_oven.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\997f42de-ce6c-4e33-94c4-3065e7fa5469_Almari.pdf",
+      "PackagePath": "staticwebassets\\Documents\\997f42de-ce6c-4e33-94c4-3065e7fa5469_Almari.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\a7ac0149-bc4d-467e-bf60-dacc799a3d85_diningtable.pdf",
+      "PackagePath": "staticwebassets\\Documents\\a7ac0149-bc4d-467e-bf60-dacc799a3d85_diningtable.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\ad9eaa55-3393-415c-9a62-1ec6e3f70da8_Documentation.docx",
+      "PackagePath": "staticwebassets\\Documents\\ad9eaa55-3393-415c-9a62-1ec6e3f70da8_Documentation.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\b2489436-5c27-44a6-9853-063a5ca211f6_Razi Frontend-Developer.pdf",
+      "PackagePath": "staticwebassets\\Documents\\b2489436-5c27-44a6-9853-063a5ca211f6_Razi Frontend-Developer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\ba66fa82-d4ee-466a-9d5b-20242075ef36_Documentation.docx",
+      "PackagePath": "staticwebassets\\Documents\\ba66fa82-d4ee-466a-9d5b-20242075ef36_Documentation.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\c1dd702b-4c3d-4649-91c8-ee144658f6d9_250cc.pdf",
+      "PackagePath": "staticwebassets\\Documents\\c1dd702b-4c3d-4649-91c8-ee144658f6d9_250cc.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\c6afa871-3abc-4259-bd18-abf5efd01b48_Samsung-Refrigerator.pdf",
+      "PackagePath": "staticwebassets\\Documents\\c6afa871-3abc-4259-bd18-abf5efd01b48_Samsung-Refrigerator.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\caf5d63c-ea80-410b-bdf2-ab9050cf72aa_User Manual.pdf",
+      "PackagePath": "staticwebassets\\Documents\\caf5d63c-ea80-410b-bdf2-ab9050cf72aa_User Manual.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\d18ed154-adc5-489e-8026-56dc0cec5051_coffee.pdf",
+      "PackagePath": "staticwebassets\\Documents\\d18ed154-adc5-489e-8026-56dc0cec5051_coffee.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\d1bc3dc3-e9b1-478f-8225-f7f335156210_corolla1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\d1bc3dc3-e9b1-478f-8225-f7f335156210_corolla1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\d8c9ffaa-dc7e-4ddc-af7b-fad858035464_CHEATS.txt",
+      "PackagePath": "staticwebassets\\Documents\\d8c9ffaa-dc7e-4ddc-af7b-fad858035464_CHEATS.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\de88e62b-b2c6-43da-a883-c4f7951fbccc_inverter.pdf",
+      "PackagePath": "staticwebassets\\Documents\\de88e62b-b2c6-43da-a883-c4f7951fbccc_inverter.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\e2f383b9-319c-4121-b752-c85d4fa69de5_suzuki-hayabusa.pdf",
+      "PackagePath": "staticwebassets\\Documents\\e2f383b9-319c-4121-b752-c85d4fa69de5_suzuki-hayabusa.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\e33803a9-bc9c-4466-b66d-93a98e99ea7e_User Guidance.docx",
+      "PackagePath": "staticwebassets\\Documents\\e33803a9-bc9c-4466-b66d-93a98e99ea7e_User Guidance.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\e38f8cf9-bffc-4bcd-a564-4c2ead281ac9_dresser.pdf",
+      "PackagePath": "staticwebassets\\Documents\\e38f8cf9-bffc-4bcd-a564-4c2ead281ac9_dresser.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\e4d01d33-960f-401c-8b51-ddb6670a081c_kawasaki.pdf",
+      "PackagePath": "staticwebassets\\Documents\\e4d01d33-960f-401c-8b51-ddb6670a081c_kawasaki.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\f2830189-7474-409e-a304-dd86a8b5711f_beds-furniture.pdf",
+      "PackagePath": "staticwebassets\\Documents\\f2830189-7474-409e-a304-dd86a8b5711f_beds-furniture.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\f40c051a-b7c3-41e0-8008-658f1638896c_Razi Frontend-Developer.pdf",
+      "PackagePath": "staticwebassets\\Documents\\f40c051a-b7c3-41e0-8008-658f1638896c_Razi Frontend-Developer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\f6d05c80-b403-40ee-9c88-21d1ccd82b21_Civic1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\f6d05c80-b403-40ee-9c88-21d1ccd82b21_Civic1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\f6e05bb1-e6e5-4f67-b2db-f42d91cc2ef9_998cc.pdf",
+      "PackagePath": "staticwebassets\\Documents\\f6e05bb1-e6e5-4f67-b2db-f42d91cc2ef9_998cc.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Documents\\faa70aba-e4da-4da7-a861-c80aedcb1f0b_Documentation.pdf",
+      "PackagePath": "staticwebassets\\Documents\\faa70aba-e4da-4da7-a861-c80aedcb1f0b_Documentation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\002b3946-f2cd-4ede-8a97-e4caf2f9394f_chr.jpg",
+      "PackagePath": "staticwebassets\\Images\\002b3946-f2cd-4ede-8a97-e4caf2f9394f_chr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\021d122f-55c2-47fd-8aff-4f99bc88b711_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\021d122f-55c2-47fd-8aff-4f99bc88b711_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\0634a5a6-c040-49d5-aeef-e6fac80ab39a_suzuki-hayabusa.jpg",
+      "PackagePath": "staticwebassets\\Images\\0634a5a6-c040-49d5-aeef-e6fac80ab39a_suzuki-hayabusa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\06cbc09e-ee98-421b-8b21-f6b8ba572bd3_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\06cbc09e-ee98-421b-8b21-f6b8ba572bd3_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\15930492-2d77-4671-9b59-fcb5f38fb323_Civic1.jpg",
+      "PackagePath": "staticwebassets\\Images\\15930492-2d77-4671-9b59-fcb5f38fb323_Civic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\16744d66-a76c-40e0-a791-e3b2e4aeb05a_beds-furniture.jpg",
+      "PackagePath": "staticwebassets\\Images\\16744d66-a76c-40e0-a791-e3b2e4aeb05a_beds-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\17f527c3-d457-4175-a912-88a413f1a783_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\17f527c3-d457-4175-a912-88a413f1a783_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\1bf71aa2-e96b-49e9-914e-a5ba20ca040e_WasherDryer.jpg",
+      "PackagePath": "staticwebassets\\Images\\1bf71aa2-e96b-49e9-914e-a5ba20ca040e_WasherDryer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\1fd73bcd-5fab-4f8c-ba8e-7557d1cb6dc5_Almari.jpg",
+      "PackagePath": "staticwebassets\\Images\\1fd73bcd-5fab-4f8c-ba8e-7557d1cb6dc5_Almari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\218ef75e-df3c-4c07-adf5-679252e6cb77_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\218ef75e-df3c-4c07-adf5-679252e6cb77_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\251a3c80-324e-49ef-886b-85094bebc17a_Master Bed.jpg",
+      "PackagePath": "staticwebassets\\Images\\251a3c80-324e-49ef-886b-85094bebc17a_Master Bed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\2d0a8868-e193-483c-a147-b04bf9bf0fb6_diningtable.jpg",
+      "PackagePath": "staticwebassets\\Images\\2d0a8868-e193-483c-a147-b04bf9bf0fb6_diningtable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\2e589f91-f477-483a-b29f-54e84d0308de_diningtable.jpg",
+      "PackagePath": "staticwebassets\\Images\\2e589f91-f477-483a-b29f-54e84d0308de_diningtable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\306f3325-72a8-425c-9466-406d43a3932d_Samsung-Refrigerator.jpg",
+      "PackagePath": "staticwebassets\\Images\\306f3325-72a8-425c-9466-406d43a3932d_Samsung-Refrigerator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\325696cb-5448-48e2-b002-22265622771a_Civic1.jpg",
+      "PackagePath": "staticwebassets\\Images\\325696cb-5448-48e2-b002-22265622771a_Civic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\33cce552-7986-4061-a0b2-4e6a78982de8_250cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\33cce552-7986-4061-a0b2-4e6a78982de8_250cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\34d8d391-0a6a-40ac-aa15-6528254132d4_Channelogo.png",
+      "PackagePath": "staticwebassets\\Images\\34d8d391-0a6a-40ac-aa15-6528254132d4_Channelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\427476d5-6169-40d8-8540-896123b03173_diningtable.jpg",
+      "PackagePath": "staticwebassets\\Images\\427476d5-6169-40d8-8540-896123b03173_diningtable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\4292a4ba-e119-42fc-8b1f-d3a682deac84_4.jpg",
+      "PackagePath": "staticwebassets\\Images\\4292a4ba-e119-42fc-8b1f-d3a682deac84_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\4e504e94-b6fb-470e-b392-6547104cd297_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\4e504e94-b6fb-470e-b392-6547104cd297_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\4e73f9ff-6cd7-4cea-887b-68c4fe3a0e29_laptop.jpg",
+      "PackagePath": "staticwebassets\\Images\\4e73f9ff-6cd7-4cea-887b-68c4fe3a0e29_laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\4f23927a-c69d-46fa-92ad-d8385e110209_beds-furniture.jpg",
+      "PackagePath": "staticwebassets\\Images\\4f23927a-c69d-46fa-92ad-d8385e110209_beds-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\4face869-9be8-49f2-9f86-f5d5fa74ba3c_WhatsApp Image 2024-05-03 at 02.33.39_fe89acee.jpg",
+      "PackagePath": "staticwebassets\\Images\\4face869-9be8-49f2-9f86-f5d5fa74ba3c_WhatsApp Image 2024-05-03 at 02.33.39_fe89acee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\50d23fe7-348b-45ec-9b60-c4b07cb2a2e8_inverter.jpg",
+      "PackagePath": "staticwebassets\\Images\\50d23fe7-348b-45ec-9b60-c4b07cb2a2e8_inverter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\5222b072-7ce7-41f9-9a2b-0fc5740db35e_camry.jpg",
+      "PackagePath": "staticwebassets\\Images\\5222b072-7ce7-41f9-9a2b-0fc5740db35e_camry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\5266017a-8468-4d8b-a39b-9f3c55c5dd18_kawasaki.jpg",
+      "PackagePath": "staticwebassets\\Images\\5266017a-8468-4d8b-a39b-9f3c55c5dd18_kawasaki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\56877b93-4e9b-4053-a2ca-12214c3449e0_oven.jpg",
+      "PackagePath": "staticwebassets\\Images\\56877b93-4e9b-4053-a2ca-12214c3449e0_oven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\58eee153-27fd-4088-b1c6-1f6c03c64167_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\58eee153-27fd-4088-b1c6-1f6c03c64167_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\72af9cd7-ce33-49b3-b0ac-940984ac9a67_Dispenser.jpg",
+      "PackagePath": "staticwebassets\\Images\\72af9cd7-ce33-49b3-b0ac-940984ac9a67_Dispenser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\823cd6ed-9e5e-4a5f-b4c4-96879360f899_Civic1.jpg",
+      "PackagePath": "staticwebassets\\Images\\823cd6ed-9e5e-4a5f-b4c4-96879360f899_Civic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\8d045409-2567-4179-8005-528f4462a08f_studytable.jpg",
+      "PackagePath": "staticwebassets\\Images\\8d045409-2567-4179-8005-528f4462a08f_studytable.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\8d6674ea-9c6b-419b-ac81-39e7898b0f08_tundra.jpg",
+      "PackagePath": "staticwebassets\\Images\\8d6674ea-9c6b-419b-ac81-39e7898b0f08_tundra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\8de084bf-5eaf-404f-a0ba-bc2b884c3119_beds-furniture.jpg",
+      "PackagePath": "staticwebassets\\Images\\8de084bf-5eaf-404f-a0ba-bc2b884c3119_beds-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\93c2075a-5422-4bb4-83ef-4f52d81dab17_beds-furniture.jpg",
+      "PackagePath": "staticwebassets\\Images\\93c2075a-5422-4bb4-83ef-4f52d81dab17_beds-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\a3d64c53-3e5b-4b8b-9c06-d5b040d9854a_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\a3d64c53-3e5b-4b8b-9c06-d5b040d9854a_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\a636a1ff-7974-4564-b066-f744ce093286_beds-furniture.jpg",
+      "PackagePath": "staticwebassets\\Images\\a636a1ff-7974-4564-b066-f744ce093286_beds-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\a637d1e0-d95a-4411-bd50-de505f21f90f_coffee.jpg",
+      "PackagePath": "staticwebassets\\Images\\a637d1e0-d95a-4411-bd50-de505f21f90f_coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\a7cb9fac-dd9f-46ae-904a-25c05553d76b_laptop.jpg",
+      "PackagePath": "staticwebassets\\Images\\a7cb9fac-dd9f-46ae-904a-25c05553d76b_laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\afe73b49-24eb-4ed9-80c8-2e2dbe5cb694_Corolla.jpg",
+      "PackagePath": "staticwebassets\\Images\\afe73b49-24eb-4ed9-80c8-2e2dbe5cb694_Corolla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\b01fa26d-8b9d-48a9-88f9-2fde68495137_sportage.jpg",
+      "PackagePath": "staticwebassets\\Images\\b01fa26d-8b9d-48a9-88f9-2fde68495137_sportage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\b80aa228-7338-44ad-9d72-db7f827ff6d9_200cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\b80aa228-7338-44ad-9d72-db7f827ff6d9_200cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\c2855aa2-ad8f-4991-b92f-d9afa1bdeecf_998cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\c2855aa2-ad8f-4991-b92f-d9afa1bdeecf_998cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\cbaac3b7-69c5-40af-951b-0c66ad765d8e_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\cbaac3b7-69c5-40af-951b-0c66ad765d8e_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\cd495cde-4491-4ba1-89c5-de06029b02e6_Civic.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd495cde-4491-4ba1-89c5-de06029b02e6_Civic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\cfb0b219-08ce-482b-90a8-ad2fe9e35870_Cultus.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cfb0b219-08ce-482b-90a8-ad2fe9e35870_Cultus.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\d71bc832-8ee0-4f64-9f43-e6a7c0d125b6_chr1.jpg",
+      "PackagePath": "staticwebassets\\Images\\d71bc832-8ee0-4f64-9f43-e6a7c0d125b6_chr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\d86ac9bc-4662-4290-b3d3-cc15a26b5d7d_dresser.jpg",
+      "PackagePath": "staticwebassets\\Images\\d86ac9bc-4662-4290-b3d3-cc15a26b5d7d_dresser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\d9aeebd4-160a-466c-95c3-a1e865a9600c_output-onlinegiftools.gif",
+      "PackagePath": "staticwebassets\\Images\\d9aeebd4-160a-466c-95c3-a1e865a9600c_output-onlinegiftools.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\dfd7a051-2b3a-412d-a476-278579c4efef_shelf.jpg",
+      "PackagePath": "staticwebassets\\Images\\dfd7a051-2b3a-412d-a476-278579c4efef_shelf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\e857fc41-e79c-4653-a487-f2572043dc9e_200cc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\e857fc41-e79c-4653-a487-f2572043dc9e_200cc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\f41a7ad5-42aa-421d-93b9-0ecb78ec5e05_Corolla1.jpg",
+      "PackagePath": "staticwebassets\\Images\\f41a7ad5-42aa-421d-93b9-0ecb78ec5e05_Corolla1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\Images\\fc0cd44a-ba60-40fe-9faf-cfd6e2f00482_Civic1.jpg",
+      "PackagePath": "staticwebassets\\Images\\fc0cd44a-ba60-40fe-9faf-cfd6e2f00482_Civic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\cat-6.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\offer-1.png",
+      "PackagePath": "staticwebassets\\img\\offer-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\offer-2.png",
+      "PackagePath": "staticwebassets\\img\\offer-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\payments.png",
+      "PackagePath": "staticwebassets\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\OnlineAuction\\OnlineAuction\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineAuction.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineAuction.props",
+      "PackagePath": "build\\OnlineAuction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineAuction.props",
+      "PackagePath": "buildMultiTargeting\\OnlineAuction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineAuction.props",
+      "PackagePath": "buildTransitive\\OnlineAuction.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
